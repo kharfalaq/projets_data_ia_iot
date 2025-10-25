@@ -34,3 +34,26 @@ Il faudra peut-être fournir ses informations d’identification GitHub.
 Étape 7 : Collaborer avec d’autres utilisateurs
 Si on travaille avec d’autres personnes sur le même dépôt, on peut les inviter en tant que collaborateurs.
 Accèder aux paramètres du dépôt sur GitHub, sélectionner « Manage access » et ajouter les utilisateurs avec lesquels on souhaite collaborer.
+
+
+## PROJET DATA
+
+### Étude sur l'eau potable
+
+Sources de données : 
+    • plateforme opendata du gouvernement francais :  [data.gouv](https://www.data.gouv.fr/fr/)  
+    • plateforme opendata de la marie de Paris : [opendata.paris](https://opendata.paris.fr/pages/home/)   
+    • site de l’INSEE : [insee.fr](https://www.insee.fr/fr/statistiques?categorie=1)  
+    • site de la banque mondiale : [datacatalog.worldbank](https://datacatalog.worldbank.org/home)  
+    • site de l’OCDE : [data.ocde](https://data.oecd.org/fr/)   
+    • base de données de films : [imdb](https://www.imdb.com/interfaces/)  
+    • une liste de données mises en avant par Tableau : [data](https://public.tableau.com/app/resources/sample-data)  
+    • [donnees_eau_potable.zip](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-analyst/DAN-P8-donnees.zip)  
+
+
+
+
+
+
+
+
